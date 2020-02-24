@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1Y9tOcAWrzxRByJu8yycJwo5B8D" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="" />
+      <created>1582366606796</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582366606796</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582385949050">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977@0.23.1680.977" timestamp="1582385949050" />
+    <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978@0.23.1680.978" timestamp="1582385537551" />
+    <state x="518" y="342" key="FileChooserDialogImpl" timestamp="1582385920251">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="518" y="342" key="FileChooserDialogImpl/0.23.1680.977@0.23.1680.977" timestamp="1582385920251" />
+    <state x="229" y="210" key="SettingsEditor" timestamp="1582385974433">
+      <screen x="0" y="23" width="1680" height="977" />
+    </state>
+    <state x="229" y="210" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1582385974433" />
+    <state x="37" y="504" width="683" height="488" key="find.popup" timestamp="1582452533928">
+      <screen x="0" y="23" width="1680" height="981" />
+    </state>
+    <state x="37" y="502" width="683" height="486" key="find.popup/0.23.1680.977@0.23.1680.977" timestamp="1582434843170" />
+    <state x="37" y="504" width="683" height="488" key="find.popup/0.23.1680.981@0.23.1680.981" timestamp="1582452533928" />
+  </component>
+</project>
