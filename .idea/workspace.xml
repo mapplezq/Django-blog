@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/_credentials.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogproject/settings/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogproject/settings/local.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fabfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/fabfile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +46,10 @@
     </state>
     <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977@0.23.1680.977" timestamp="1582385949050" />
     <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978@0.23.1680.978" timestamp="1582385537551" />
+    <state x="1156" y="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582874177836">
+      <screen x="0" y="23" width="1680" height="980" />
+    </state>
+    <state x="1156" y="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.23.1680.980@0.23.1680.980" timestamp="1582874177836" />
     <state x="518" y="342" key="FileChooserDialogImpl" timestamp="1582385920251">
       <screen x="0" y="23" width="1680" height="977" />
     </state>
@@ -62,10 +63,11 @@
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="653" y="464" key="com.intellij.ide.util.TipDialog/0.23.1680.980@0.23.1680.980" timestamp="1582826323141" />
-    <state x="37" y="504" width="683" height="488" key="find.popup" timestamp="1582452533928">
-      <screen x="0" y="23" width="1680" height="981" />
+    <state x="37" y="504" width="683" height="488" key="find.popup" timestamp="1582874086056">
+      <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="37" y="502" width="683" height="486" key="find.popup/0.23.1680.977@0.23.1680.977" timestamp="1582434843170" />
+    <state x="37" y="504" width="683" height="488" key="find.popup/0.23.1680.980@0.23.1680.980" timestamp="1582874086056" />
     <state x="37" y="504" width="683" height="488" key="find.popup/0.23.1680.981@0.23.1680.981" timestamp="1582452533928" />
     <state x="613" y="322" width="670" height="676" key="search.everywhere.popup" timestamp="1582704107712">
       <screen x="0" y="23" width="1680" height="975" />
