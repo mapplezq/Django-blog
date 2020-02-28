@@ -2,14 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogproject/settings/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogproject/settings/local.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogproject/settings/production.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fabfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogproject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogproject/settings/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogproject/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogproject/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/manage.py" beforeDir="false" afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_credentials.py" beforeDir="false" afterPath="$PROJECT_DIR$/_credentials.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogproject/settings/local.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogproject/settings/local.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/fabfile.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,7 +28,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,10 +53,11 @@
       <screen x="0" y="23" width="1680" height="977" />
     </state>
     <state x="518" y="342" key="FileChooserDialogImpl/0.23.1680.977@0.23.1680.977" timestamp="1582385920251" />
-    <state x="229" y="210" key="SettingsEditor" timestamp="1582385974433">
-      <screen x="0" y="23" width="1680" height="977" />
+    <state x="229" y="210" key="SettingsEditor" timestamp="1582871371926">
+      <screen x="0" y="23" width="1680" height="979" />
     </state>
     <state x="229" y="210" key="SettingsEditor/0.23.1680.977@0.23.1680.977" timestamp="1582385974433" />
+    <state x="229" y="210" key="SettingsEditor/0.23.1680.979@0.23.1680.979" timestamp="1582871371926" />
     <state x="653" y="464" key="com.intellij.ide.util.TipDialog" timestamp="1582826323141">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
