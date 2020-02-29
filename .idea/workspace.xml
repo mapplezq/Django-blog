@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/compose/production/nginx/sources.list" beforeDir="false" afterPath="$PROJECT_DIR$/compose/production/nginx/sources.list" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
