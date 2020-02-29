@@ -26,8 +26,7 @@ def deploy(c):
 
     project_root_path = '~/apps/Django-blog/'
 
-    conn = Connection("root@118.126.82.231", connect_kwargs={"password": "ZHUqian224@"})
-    conn.run('su - mapple')
+    # c.run('su - mapple')
 
     # 先停止应用
     with c.cd(supervisor_conf_path):

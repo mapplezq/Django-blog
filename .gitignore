@@ -131,6 +131,7 @@ dmypy.json
 media/
 _credentials.py
 .production
+.envs/
 
 # Pyre type checker
 .pyre/

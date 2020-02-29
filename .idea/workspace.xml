@@ -2,8 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose/production/django/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose/production/django/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose/production/nginx/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose/production/nginx/django-blog.conf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/production.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blogproject/settings/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogproject/settings/common.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/fabfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/fabfile.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,8 +33,13 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/compose/production/nginx" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/compose/production/nginx" />
+    </key>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -46,6 +60,11 @@
     </state>
     <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977@0.23.1680.977" timestamp="1582385949050" />
     <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978@0.23.1680.978" timestamp="1582385537551" />
+    <state x="578" y="622" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582957327242">
+      <screen x="0" y="23" width="1680" height="979" />
+    </state>
+    <state x="578" y="622" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.979@0.23.1680.979" timestamp="1582957327242" />
+    <state x="578" y="624" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.981@0.23.1680.981" timestamp="1582954107887" />
     <state x="1156" y="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582874177836">
       <screen x="0" y="23" width="1680" height="980" />
     </state>
@@ -63,15 +82,17 @@
       <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="653" y="464" key="com.intellij.ide.util.TipDialog/0.23.1680.980@0.23.1680.980" timestamp="1582826323141" />
-    <state x="37" y="504" width="683" height="488" key="find.popup" timestamp="1582874086056">
-      <screen x="0" y="23" width="1680" height="980" />
+    <state x="37" y="504" width="683" height="488" key="find.popup" timestamp="1582956590869">
+      <screen x="0" y="23" width="1680" height="979" />
     </state>
     <state x="37" y="502" width="683" height="486" key="find.popup/0.23.1680.977@0.23.1680.977" timestamp="1582434843170" />
+    <state x="37" y="504" width="683" height="488" key="find.popup/0.23.1680.979@0.23.1680.979" timestamp="1582956590869" />
     <state x="37" y="504" width="683" height="488" key="find.popup/0.23.1680.980@0.23.1680.980" timestamp="1582874086056" />
     <state x="37" y="504" width="683" height="488" key="find.popup/0.23.1680.981@0.23.1680.981" timestamp="1582452533928" />
-    <state x="613" y="322" width="670" height="676" key="search.everywhere.popup" timestamp="1582704107712">
-      <screen x="0" y="23" width="1680" height="975" />
+    <state x="613" y="324" width="670" height="680" key="search.everywhere.popup" timestamp="1582953529881">
+      <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="613" y="322" width="670" height="676" key="search.everywhere.popup/0.23.1680.975@0.23.1680.975" timestamp="1582704107712" />
+    <state x="613" y="324" width="670" height="680" key="search.everywhere.popup/0.23.1680.980@0.23.1680.980" timestamp="1582953529881" />
   </component>
 </project>
