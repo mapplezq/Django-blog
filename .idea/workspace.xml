@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.dockerignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose/production/django/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose/production/django/start.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose/production/nginx/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose/production/nginx/django-blog.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/production.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose/local/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose/local/start.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/local.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogproject/settings/common.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogproject/settings/common.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabfile.py" beforeDir="false" afterPath="$PROJECT_DIR$/fabfile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose/production/django/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/compose/production/django/start.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,11 +27,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/compose/production/nginx" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/compose/local" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/compose/local" />
       <recent name="$PROJECT_DIR$/compose/production/nginx" />
     </key>
   </component>
