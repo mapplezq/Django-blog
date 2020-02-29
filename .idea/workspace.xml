@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="95a9af18-0933-42b5-9ca1-84dad55f5d89" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/compose/local/Dockerfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/compose/local/start.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/local.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/compose/production/nginx/sources.list" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/compose/production/django/start.sh" beforeDir="false" afterPath="$PROJECT_DIR$/compose/production/django/start.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +52,11 @@
     </state>
     <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.977@0.23.1680.977" timestamp="1582385949050" />
     <state x="299" y="232" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1680.978@0.23.1680.978" timestamp="1582385537551" />
-    <state x="578" y="622" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582957327242">
-      <screen x="0" y="23" width="1680" height="979" />
+    <state x="578" y="623" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1582967716160">
+      <screen x="0" y="23" width="1680" height="980" />
     </state>
     <state x="578" y="622" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.979@0.23.1680.979" timestamp="1582957327242" />
+    <state x="578" y="623" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.980@0.23.1680.980" timestamp="1582967716160" />
     <state x="578" y="624" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1680.981@0.23.1680.981" timestamp="1582954107887" />
     <state x="1156" y="511" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582874177836">
       <screen x="0" y="23" width="1680" height="980" />
